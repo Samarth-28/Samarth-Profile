@@ -1,0 +1,31 @@
+h1
+{
+	color: orange;
+	background-color: red;
+	font-size: 50px ;
+	text-decoration: underline;
+	
+	font-family: '',cursive; 
+	text-align: center;
+}
+p
+{
+	color: red;
+	text-align: center;
+	line-height: 30px; 
+	column-count: 2;
+	column-gap: 100px;
+
+
+}
+ul
+{
+	border-bottom: dotted 4px crimson;
+	border-left: dashed 8px blue;
+}
+li
+{
+	list-style-type: square;
+	/*text-shadow: 2px 2px cyan;*/
+	text-shadow:2px 2px cyan;
+}

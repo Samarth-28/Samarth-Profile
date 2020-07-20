@@ -1,0 +1,24 @@
+a
+{
+  background-color:white;
+  text-decoration: none;
+  color:seagreen
+}
+/* .error{
+  background-color: darkgoldenrod;
+  text-decoration: none;
+} */
+button{
+  background-color: khaki;
+  font-size: medium;
+  border: 5px solid khaki;
+  size: 5px;
+
+}
+div{
+  display: inline-block;
+  border: 5px solid white;
+  align-items: center;
+  background-image: url(black.jpg)
+
+}

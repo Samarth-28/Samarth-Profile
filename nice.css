@@ -1,0 +1,10 @@
+div {
+   border:2px solid chocolate;
+   margin:2px;
+   padding:5px;
+}
+span {
+    margin: 2px;
+    padding: 5px;
+    border: dotted 2px blue;
+}

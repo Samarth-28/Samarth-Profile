@@ -1,0 +1,16 @@
+p.hi{
+    color:#ff0000
+}
+p#content {
+    color:greenyellow;
+}
+div#dark{
+    background-color: #f0e68c;
+    border: 2px dashed #adf506;
+    padding: 1px;
+    margin: 1px;
+    text-decoration: underline;
+    font-style: italic;
+    color: red ;
+    font-family: Arial, Helvetica, sans-serif;
+}
